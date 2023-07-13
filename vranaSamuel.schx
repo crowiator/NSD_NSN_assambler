@@ -1,0 +1,2127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Board ver="1.1">
+  <View hValue="0.49892413674716635" vValue="0.5209842682691478" />
+  <SchoolBreadboards>
+    <SchoolBreadboard id="sb0">
+      <gridX>65</gridX>
+      <gridY>80</gridY>
+      <bi id="c0" />
+      <bb id="c1" />
+      <hs0 id="c2" />
+      <hs1 id="c3" />
+      <hs2 id="c4" />
+      <hs3 id="c5" />
+      <hsp id="c6" />
+      <nk id="c7" />
+      <pr id="c8" />
+    </SchoolBreadboard>
+  </SchoolBreadboards>
+  <Components />
+  <Devices>
+    <Device>
+      <class>Chips.SN74573</class>
+      <gridX>80</gridX>
+      <gridY>95</gridY>
+      <pins>
+        <pin number="1">
+          <componentId>c1</componentId>
+          <socketId>470</socketId>
+        </pin>
+        <pin number="2">
+          <componentId>c1</componentId>
+          <socketId>475</socketId>
+        </pin>
+        <pin number="3">
+          <componentId>c1</componentId>
+          <socketId>480</socketId>
+        </pin>
+        <pin number="4">
+          <componentId>c1</componentId>
+          <socketId>485</socketId>
+        </pin>
+        <pin number="5">
+          <componentId>c1</componentId>
+          <socketId>490</socketId>
+        </pin>
+        <pin number="6">
+          <componentId>c1</componentId>
+          <socketId>495</socketId>
+        </pin>
+        <pin number="7">
+          <componentId>c1</componentId>
+          <socketId>500</socketId>
+        </pin>
+        <pin number="8">
+          <componentId>c1</componentId>
+          <socketId>505</socketId>
+        </pin>
+        <pin number="9">
+          <componentId>c1</componentId>
+          <socketId>510</socketId>
+        </pin>
+        <pin number="10">
+          <componentId>c1</componentId>
+          <socketId>515</socketId>
+        </pin>
+        <pin number="11">
+          <componentId>c1</componentId>
+          <socketId>204</socketId>
+        </pin>
+        <pin number="12">
+          <componentId>c1</componentId>
+          <socketId>199</socketId>
+        </pin>
+        <pin number="13">
+          <componentId>c1</componentId>
+          <socketId>194</socketId>
+        </pin>
+        <pin number="14">
+          <componentId>c1</componentId>
+          <socketId>189</socketId>
+        </pin>
+        <pin number="15">
+          <componentId>c1</componentId>
+          <socketId>184</socketId>
+        </pin>
+        <pin number="16">
+          <componentId>c1</componentId>
+          <socketId>179</socketId>
+        </pin>
+        <pin number="17">
+          <componentId>c1</componentId>
+          <socketId>174</socketId>
+        </pin>
+        <pin number="18">
+          <componentId>c1</componentId>
+          <socketId>169</socketId>
+        </pin>
+        <pin number="19">
+          <componentId>c1</componentId>
+          <socketId>164</socketId>
+        </pin>
+        <pin number="20">
+          <componentId>c1</componentId>
+          <socketId>159</socketId>
+        </pin>
+      </pins>
+    </Device>
+    <Device>
+      <class>Chips.Gates.Gen7402</class>
+      <gridX>91</gridX>
+      <gridY>95</gridY>
+      <pins>
+        <pin number="1">
+          <componentId>c1</componentId>
+          <socketId>525</socketId>
+        </pin>
+        <pin number="2">
+          <componentId>c1</componentId>
+          <socketId>530</socketId>
+        </pin>
+        <pin number="3">
+          <componentId>c1</componentId>
+          <socketId>535</socketId>
+        </pin>
+        <pin number="4">
+          <componentId>c1</componentId>
+          <socketId>540</socketId>
+        </pin>
+        <pin number="5">
+          <componentId>c1</componentId>
+          <socketId>545</socketId>
+        </pin>
+        <pin number="6">
+          <componentId>c1</componentId>
+          <socketId>550</socketId>
+        </pin>
+        <pin number="7">
+          <componentId>c1</componentId>
+          <socketId>555</socketId>
+        </pin>
+        <pin number="8">
+          <componentId>c1</componentId>
+          <socketId>244</socketId>
+        </pin>
+        <pin number="9">
+          <componentId>c1</componentId>
+          <socketId>239</socketId>
+        </pin>
+        <pin number="10">
+          <componentId>c1</componentId>
+          <socketId>234</socketId>
+        </pin>
+        <pin number="11">
+          <componentId>c1</componentId>
+          <socketId>229</socketId>
+        </pin>
+        <pin number="12">
+          <componentId>c1</componentId>
+          <socketId>224</socketId>
+        </pin>
+        <pin number="13">
+          <componentId>c1</componentId>
+          <socketId>219</socketId>
+        </pin>
+        <pin number="14">
+          <componentId>c1</componentId>
+          <socketId>214</socketId>
+        </pin>
+      </pins>
+    </Device>
+    <Device>
+      <class>Chips.SN74573</class>
+      <gridX>99</gridX>
+      <gridY>95</gridY>
+      <pins>
+        <pin number="1">
+          <componentId>c1</componentId>
+          <socketId>565</socketId>
+        </pin>
+        <pin number="2">
+          <componentId>c1</componentId>
+          <socketId>570</socketId>
+        </pin>
+        <pin number="3">
+          <componentId>c1</componentId>
+          <socketId>575</socketId>
+        </pin>
+        <pin number="4">
+          <componentId>c1</componentId>
+          <socketId>580</socketId>
+        </pin>
+        <pin number="5">
+          <componentId>c1</componentId>
+          <socketId>585</socketId>
+        </pin>
+        <pin number="6">
+          <componentId>c1</componentId>
+          <socketId>590</socketId>
+        </pin>
+        <pin number="7">
+          <componentId>c1</componentId>
+          <socketId>595</socketId>
+        </pin>
+        <pin number="8">
+          <componentId>c1</componentId>
+          <socketId>600</socketId>
+        </pin>
+        <pin number="9">
+          <componentId>c1</componentId>
+          <socketId>605</socketId>
+        </pin>
+        <pin number="10">
+          <componentId>c1</componentId>
+          <socketId>610</socketId>
+        </pin>
+        <pin number="11">
+          <componentId>c1</componentId>
+          <socketId>299</socketId>
+        </pin>
+        <pin number="12">
+          <componentId>c1</componentId>
+          <socketId>294</socketId>
+        </pin>
+        <pin number="13">
+          <componentId>c1</componentId>
+          <socketId>289</socketId>
+        </pin>
+        <pin number="14">
+          <componentId>c1</componentId>
+          <socketId>284</socketId>
+        </pin>
+        <pin number="15">
+          <componentId>c1</componentId>
+          <socketId>279</socketId>
+        </pin>
+        <pin number="16">
+          <componentId>c1</componentId>
+          <socketId>274</socketId>
+        </pin>
+        <pin number="17">
+          <componentId>c1</componentId>
+          <socketId>269</socketId>
+        </pin>
+        <pin number="18">
+          <componentId>c1</componentId>
+          <socketId>264</socketId>
+        </pin>
+        <pin number="19">
+          <componentId>c1</componentId>
+          <socketId>259</socketId>
+        </pin>
+        <pin number="20">
+          <componentId>c1</componentId>
+          <socketId>254</socketId>
+        </pin>
+      </pins>
+    </Device>
+    <Device>
+      <class>Chips.SN74573</class>
+      <gridX>111</gridX>
+      <gridY>95</gridY>
+      <pins>
+        <pin number="1">
+          <componentId>c1</componentId>
+          <socketId>625</socketId>
+        </pin>
+        <pin number="2">
+          <componentId>c1</componentId>
+          <socketId>630</socketId>
+        </pin>
+        <pin number="3">
+          <componentId>c1</componentId>
+          <socketId>635</socketId>
+        </pin>
+        <pin number="4">
+          <componentId>c1</componentId>
+          <socketId>640</socketId>
+        </pin>
+        <pin number="5">
+          <componentId>c1</componentId>
+          <socketId>645</socketId>
+        </pin>
+        <pin number="6">
+          <componentId>c1</componentId>
+          <socketId>650</socketId>
+        </pin>
+        <pin number="7">
+          <componentId>c1</componentId>
+          <socketId>655</socketId>
+        </pin>
+        <pin number="8">
+          <componentId>c1</componentId>
+          <socketId>660</socketId>
+        </pin>
+        <pin number="9">
+          <componentId>c1</componentId>
+          <socketId>665</socketId>
+        </pin>
+        <pin number="10">
+          <componentId>c1</componentId>
+          <socketId>670</socketId>
+        </pin>
+        <pin number="11">
+          <componentId>c1</componentId>
+          <socketId>359</socketId>
+        </pin>
+        <pin number="12">
+          <componentId>c1</componentId>
+          <socketId>354</socketId>
+        </pin>
+        <pin number="13">
+          <componentId>c1</componentId>
+          <socketId>349</socketId>
+        </pin>
+        <pin number="14">
+          <componentId>c1</componentId>
+          <socketId>344</socketId>
+        </pin>
+        <pin number="15">
+          <componentId>c1</componentId>
+          <socketId>339</socketId>
+        </pin>
+        <pin number="16">
+          <componentId>c1</componentId>
+          <socketId>334</socketId>
+        </pin>
+        <pin number="17">
+          <componentId>c1</componentId>
+          <socketId>329</socketId>
+        </pin>
+        <pin number="18">
+          <componentId>c1</componentId>
+          <socketId>324</socketId>
+        </pin>
+        <pin number="19">
+          <componentId>c1</componentId>
+          <socketId>319</socketId>
+        </pin>
+        <pin number="20">
+          <componentId>c1</componentId>
+          <socketId>314</socketId>
+        </pin>
+      </pins>
+    </Device>
+    <Device>
+      <class>Chips.SN74573</class>
+      <gridX>122</gridX>
+      <gridY>95</gridY>
+      <pins>
+        <pin number="1">
+          <componentId>c1</componentId>
+          <socketId>680</socketId>
+        </pin>
+        <pin number="2">
+          <componentId>c1</componentId>
+          <socketId>685</socketId>
+        </pin>
+        <pin number="3">
+          <componentId>c1</componentId>
+          <socketId>690</socketId>
+        </pin>
+        <pin number="4">
+          <componentId>c1</componentId>
+          <socketId>695</socketId>
+        </pin>
+        <pin number="5">
+          <componentId>c1</componentId>
+          <socketId>700</socketId>
+        </pin>
+        <pin number="6">
+          <componentId>c1</componentId>
+          <socketId>705</socketId>
+        </pin>
+        <pin number="7">
+          <componentId>c1</componentId>
+          <socketId>710</socketId>
+        </pin>
+        <pin number="8">
+          <componentId>c1</componentId>
+          <socketId>715</socketId>
+        </pin>
+        <pin number="9">
+          <componentId>c1</componentId>
+          <socketId>720</socketId>
+        </pin>
+        <pin number="10">
+          <componentId>c1</componentId>
+          <socketId>725</socketId>
+        </pin>
+        <pin number="11">
+          <componentId>c1</componentId>
+          <socketId>414</socketId>
+        </pin>
+        <pin number="12">
+          <componentId>c1</componentId>
+          <socketId>409</socketId>
+        </pin>
+        <pin number="13">
+          <componentId>c1</componentId>
+          <socketId>404</socketId>
+        </pin>
+        <pin number="14">
+          <componentId>c1</componentId>
+          <socketId>399</socketId>
+        </pin>
+        <pin number="15">
+          <componentId>c1</componentId>
+          <socketId>394</socketId>
+        </pin>
+        <pin number="16">
+          <componentId>c1</componentId>
+          <socketId>389</socketId>
+        </pin>
+        <pin number="17">
+          <componentId>c1</componentId>
+          <socketId>384</socketId>
+        </pin>
+        <pin number="18">
+          <componentId>c1</componentId>
+          <socketId>379</socketId>
+        </pin>
+        <pin number="19">
+          <componentId>c1</componentId>
+          <socketId>374</socketId>
+        </pin>
+        <pin number="20">
+          <componentId>c1</componentId>
+          <socketId>369</socketId>
+        </pin>
+      </pins>
+    </Device>
+  </Devices>
+  <Wires>
+    <Wire color="0x990000ff">
+      <start>
+        <componentId>c7</componentId>
+        <socketId>5</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>824</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x990000ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>829</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>99</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>134</gridX>
+          <gridY>106</gridY>
+        </joint>
+        <joint>
+          <gridX>134</gridX>
+          <gridY>88</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>779</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>49</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>136</gridX>
+          <gridY>105</gridY>
+        </joint>
+        <joint>
+          <gridX>136</gridX>
+          <gridY>87</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x999900ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>476</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>23</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>58</gridX>
+          <gridY>84</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x999900ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>481</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>22</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>59</gridX>
+          <gridY>84</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x999900ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>486</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>21</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>60</gridX>
+          <gridY>84</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x999900ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>491</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>20</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>61</gridX>
+          <gridY>84</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x999900ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>496</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>19</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>62</gridX>
+          <gridY>84</gridY>
+        </joint>
+        <joint>
+          <gridX>73</gridX>
+          <gridY>84</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>84</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x999900ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>501</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>18</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>63</gridX>
+          <gridY>84</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x999900ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>506</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>17</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>64</gridX>
+          <gridY>84</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x999900ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>511</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>16</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>65</gridX>
+          <gridY>84</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>84</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x330033ff">
+      <start>
+        <componentId>c6</componentId>
+        <socketId>2</socketId>
+      </start>
+      <end>
+        <componentId>c2</componentId>
+        <socketId>8</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c0</componentId>
+        <socketId>36</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>45</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xb31a1aff">
+      <start>
+        <componentId>c6</componentId>
+        <socketId>0</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>795</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>559</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>751</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x990000ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>67</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>210</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>744</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>519</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>740</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>474</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x990000ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>58</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>155</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>163</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>0</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>79</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>78</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>110</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>168</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>1</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>79</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>78</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>111</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>173</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>2</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>79</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>78</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>112</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>178</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>3</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>79</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>78</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>113</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>183</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>4</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>79</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>78</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>114</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>188</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>5</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>79</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>78</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>115</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>193</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>6</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>79</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>78</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>116</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>198</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>7</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>79</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>78</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>90</gridY>
+        </joint>
+        <joint>
+          <gridX>48</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>71</gridX>
+          <gridY>117</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb3e6b3ff">
+      <start>
+        <componentId>c6</componentId>
+        <socketId>3</socketId>
+      </start>
+      <end>
+        <componentId>c3</componentId>
+        <socketId>8</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>759</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>614</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>755</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>569</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x990000ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>250</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>75</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>473</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>568</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>478</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>573</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>483</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>578</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>488</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>583</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>493</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>588</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>498</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>593</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>503</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>598</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>508</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>603</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>513</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>608</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>258</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>0</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>100</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>92</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>110</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>263</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>1</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>111</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>268</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>2</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>111</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>112</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>273</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>3</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>99</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>113</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>278</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>4</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>114</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>283</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>5</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>107</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>115</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>288</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>6</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>116</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffb380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>293</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>7</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>110</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>104</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>108</gridY>
+        </joint>
+        <joint>
+          <gridX>75</gridX>
+          <gridY>117</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x4d001aff">
+      <start>
+        <componentId>c6</componentId>
+        <socketId>4</socketId>
+      </start>
+      <end>
+        <componentId>c4</componentId>
+        <socketId>8</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x990000ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>85</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>310</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>770</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>674</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>765</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>629</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>572</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>632</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>577</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>637</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>582</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>642</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>587</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>647</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>592</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>652</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>597</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>657</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>602</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>662</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>607</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>667</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>318</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>0</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>110</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>323</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>1</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>111</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>328</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>2</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>112</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>333</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>3</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>113</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>338</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>4</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>114</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>343</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>5</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>115</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>348</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>6</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>116</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xffcce6ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>353</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>7</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>94</gridY>
+        </joint>
+        <joint>
+          <gridX>121</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>109</gridY>
+        </joint>
+        <joint>
+          <gridX>81</gridX>
+          <gridY>117</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb36680ff">
+      <start>
+        <componentId>c6</componentId>
+        <socketId>5</socketId>
+      </start>
+      <end>
+        <componentId>c5</componentId>
+        <socketId>8</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x003333ff">
+      <start>
+        <componentId>c0</componentId>
+        <socketId>0</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>223</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>98</gridX>
+          <gridY>85</gridY>
+        </joint>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>85</gridY>
+        </joint>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>91</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x003333ff">
+      <start>
+        <componentId>c0</componentId>
+        <socketId>30</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>225</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>98</gridX>
+          <gridY>85</gridY>
+        </joint>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>85</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x80b380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>203</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>526</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x80b380ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>531</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>1</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>97</gridX>
+          <gridY>99</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xcc8033ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>541</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>298</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>94</gridX>
+          <gridY>96</gridY>
+        </joint>
+        <joint>
+          <gridX>108</gridX>
+          <gridY>96</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xcc8033ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>546</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>2</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xcc8033ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>227</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>551</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xb380b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>243</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>228</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xb380b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>238</socketId>
+      </start>
+      <end>
+        <componentId>c0</componentId>
+        <socketId>3</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>95</gridX>
+          <gridY>94</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0xb380b3ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>233</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>358</socketId>
+      </end>
+      <Joints>
+        <joint>
+          <gridX>95</gridX>
+          <gridY>97</gridY>
+        </joint>
+        <joint>
+          <gridX>120</gridX>
+          <gridY>97</gridY>
+        </joint>
+      </Joints>
+    </Wire>
+    <Wire color="0x001a80ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>778</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>729</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffff66ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>723</socketId>
+      </start>
+      <end>
+        <componentId>c7</componentId>
+        <socketId>9</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffff66ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>718</socketId>
+      </start>
+      <end>
+        <componentId>c7</componentId>
+        <socketId>8</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffff66ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>713</socketId>
+      </start>
+      <end>
+        <componentId>c7</componentId>
+        <socketId>7</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xffff66ff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>708</socketId>
+      </start>
+      <end>
+        <componentId>c7</componentId>
+        <socketId>6</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x99cc99ff">
+      <start>
+        <componentId>c0</componentId>
+        <socketId>29</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>681</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xb31a1aff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>93</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>365</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xb31a1aff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>98</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>410</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x4d804dff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>668</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>408</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x4d804dff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>663</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>403</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x4d804dff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>658</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>398</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x4d804dff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>653</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>393</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x4d804dff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>222</socketId>
+      </start>
+      <end>
+        <componentId>c7</componentId>
+        <socketId>13</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x4d804dff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>532</socketId>
+      </start>
+      <end>
+        <componentId>c7</componentId>
+        <socketId>12</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x4d804dff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>547</socketId>
+      </start>
+      <end>
+        <componentId>c7</componentId>
+        <socketId>11</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0x4d804dff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>237</socketId>
+      </start>
+      <end>
+        <componentId>c7</componentId>
+        <socketId>10</socketId>
+      </end>
+      <Joints />
+    </Wire>
+    <Wire color="0xccffccff">
+      <start>
+        <componentId>c1</componentId>
+        <socketId>536</socketId>
+      </start>
+      <end>
+        <componentId>c1</componentId>
+        <socketId>226</socketId>
+      </end>
+      <Joints />
+    </Wire>
+  </Wires>
+</Board>
